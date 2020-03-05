@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vendas</string>
+    <string name="senha_tela_login">Senha</string>
+    <string name="esqueceu_sua_senha_tela_login">Esqueceu sua senha?</string>
+    <string name="email_tela_login">Email</string>
+    <string name="sign_in_tela_login">Sign in</string>
+    <string name="todo_tela_login">TODO</string>
+</resources>
